@@ -1,4 +1,4 @@
-document.body.style.margin = "0";
+document.body.style.margin = "10px";
 document.body.style.display = "grid";
 document.body.style.gridTemplateColumns = "1fr 1fr";
 document.body.style.gridTemplateColumns = "1fr 1fr";
